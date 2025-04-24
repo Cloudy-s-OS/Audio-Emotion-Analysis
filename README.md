@@ -1,7 +1,7 @@
 ![cloudy_os_banner](https://github.com/user-attachments/assets/02676383-5ea1-4d2a-b018-a3e1c3b767df)
 ### Introduction:
 
-This project aims to develop and predict the human emotion by their speech (specifically Angry, Frustrated, Happy, Neutral, and Sad) directly from Thai speech audio dataset named THAI SER dataset.
+This project aims to develop and predict the human emotion by their speech (specifically Angry, Frustrated, Happy, Neutral, and Sad) directly from Thai speech audio dataset named THAI SER dataset. [Speech Emotion Dataset](https://airesearch.in.th/releases/speech-emotion-dataset)
 
 A key focus of this project is to analyze and optimize the computational performance and how we optimize it:
 1. A **Standard Sequential Version or First Version:** Processes audio files one by one.
